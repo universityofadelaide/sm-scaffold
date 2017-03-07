@@ -52,7 +52,7 @@ class Handler
         $source = 'https://raw.githubusercontent.com/universityofadelaide/sm-scaffold/{version}/{path}';
         $filenames = [
             'RoboFileBase.php',
-            'RoboFileDrupalDeploymentInterface.php',
+            'RoboFileDrupalDeployInterface.php',
             'dsh',
         ];
         $version = 'master';

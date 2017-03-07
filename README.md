@@ -16,7 +16,9 @@ In your Drupal project, require this repository using composer.
 composer require universityofadelaide/sm-scaffold dev-master
 ```
 
-Add the following items to your project's `composer.json`:
+If you do not notice the tool files download during the update part of the
+composer run, you may need to update composer, or add the following items to
+your project's `composer.json`:
 
 ```
 "scripts": {
